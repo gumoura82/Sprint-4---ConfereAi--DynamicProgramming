@@ -4,7 +4,7 @@ Este projeto aplica a Programação Dinâmica para resolver um problema de contr
 
 A solução implementada é o algoritmo de **Wagner-Whitin**, a abordagem clássica de PD para o problema de **Dimensionamento de Lote (Lot-Sizing)**.
 
----
+
 
 ## 1. Contexto e Formulação do Problema
 
@@ -64,7 +64,7 @@ O arquivo `example.py` serve como o script de validação. Ele importa as duas f
 
 Ao rodar o `example.py`, o console exibe o custo total e a política de pedidos (quando e quanto comprar) calculados por ambas as versões, provando que elas chegam ao mesmo resultado ótimo.
 
----
+
 
 ## 2. Relatório do Projeto
 
@@ -94,7 +94,7 @@ A estrutura do algoritmo foi usada para resolver o problema de "controle de esto
 
 Isso melhora a visibilidade do consumo e reduz desperdícios ao criar um cronograma de pedidos matematicamente ótimo.
 
----
+
 
 ## 3. Como Executar o Projeto
 
